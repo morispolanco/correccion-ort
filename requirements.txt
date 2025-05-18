@@ -1,0 +1,5 @@
+# requirements.txt
+
+streamlit
+python-docx
+language-tool-python
